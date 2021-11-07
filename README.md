@@ -1,7 +1,7 @@
 
 # 'Writter Committee' Project
 
-This project was bootstrapped with [Deploy Link](https://condescending-varahamihira-135890.netlify.app/).
+# Project Link: https://condescending-varahamihira-135890.netlify.app/
 
 
 In the project directory, you can run:
