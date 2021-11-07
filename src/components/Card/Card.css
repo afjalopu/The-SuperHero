@@ -1,0 +1,8 @@
+.mainContainer{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 20px 20px;
+}
+.calculate {
+    margin-left: 20px;
+}
